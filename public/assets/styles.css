@@ -1,0 +1,26 @@
+body {
+  background-color: #72589c; /* Cambia esto por el color de fondo que desees */
+}
+/* Estilos para inputs */
+.custom-input {
+  width: 80%; /* Ajusta según tus necesidades */
+  max-width: 450px; /* Limita el ancho máximo */
+}
+.custom-modal {
+  background-color: #72589c;
+}
+.label-color {
+  color: white;
+}
+.table th {
+  color: white; /* Color del texto */
+}
+.table td {
+  color: white; /* Color del texto */
+}
+.custom-heading {
+  color: white; /* Color del texto */
+  background-color: #03a6e7; /* Color de fondo */
+  padding: 10px; /* Espaciado interno */
+  border-radius: 5px; /* Bordes redondeados */
+}
